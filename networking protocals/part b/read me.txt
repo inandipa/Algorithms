@@ -1,0 +1,14 @@
+need to change the length of padding string to change transmission string length.
+
+Command for executing TCP Client ==> directory/cn project/part b>java TCPClient address port
+
+
+Command for executing UDP Client ==> directory/cn project/part b>java UDPClient address port
+
+
+
+
+Command for executing TCP Server==> directory/cn project/part b>java TCPServer port
+
+
+Command for executing UDP Server==> directory/cn project/part b>java UDPServer port

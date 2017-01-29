@@ -1,0 +1,5 @@
+client running command for 'Get' directory/project/part a/client> java Client_side address port GET index.html  
+
+client running command for 'PUT' directory/project/part a/client> java Client_side address port PUT test.txt
+
+server running command directory/project/part a/server> java Server_side port
